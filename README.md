@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-:computer: "esarrolador de sotfware"
+:computer: "Desarrolador de sotfware"
 
 ###Vias de Contacto
 
