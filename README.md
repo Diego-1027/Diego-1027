@@ -2,6 +2,9 @@
 
 :computer: "Desarrolador de sotfware"
 
+###Lenguajes
+1[jasascript logo]https://img.shields.io/badge/logo-javascript-blue?logo=javascript
+
 ###Vias de Contacto
 
 3172486482
