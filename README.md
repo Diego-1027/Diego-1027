@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+:computer: "esarrolador de sotfware"
+
+###Vias de Contacto
+
+3172486482
+
 <!--
 **Diego-1027/Diego-1027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
